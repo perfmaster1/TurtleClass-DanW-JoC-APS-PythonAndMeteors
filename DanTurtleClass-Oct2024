@@ -1,0 +1,19 @@
+
+
+import turtle
+
+#
+#  Set up screen
+#
+wn=turtle.Screen()
+wn.bgcolor("black")
+wn.title("Space Invaders")
+
+
+
+
+
+
+
+
+delay=raw_input("Press ENTER to finish")
